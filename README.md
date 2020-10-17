@@ -1,3 +1,5 @@
+
+[![Run on Repl.it](https://repl.it/badge/github/TheBastionBot/Bastion)](https://repl.it/github/TheBastionBot/Bastion)
 [![Bastion Logo](https://nexus.traction.one/images/bastion/logos/logotype.svg)](https://bastion.traction.one 'The Bastion Bot')
 
 <div align='center'>
